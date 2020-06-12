@@ -1,0 +1,2 @@
+// android recycler view example
+https://guides.codepath.com/android/using-the-recyclerview#creating-the-custom-row-layout

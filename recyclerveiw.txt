@@ -1,2 +1,5 @@
 // android recycler view example
 https://guides.codepath.com/android/using-the-recyclerview#creating-the-custom-row-layout
+
+//updating recycler view
+https://medium.com/@suragch/updating-data-in-an-android-recyclerview-842e56adbfd8

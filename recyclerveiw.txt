@@ -3,3 +3,6 @@ https://guides.codepath.com/android/using-the-recyclerview#creating-the-custom-r
 
 //updating recycler view
 https://medium.com/@suragch/updating-data-in-an-android-recyclerview-842e56adbfd8
+
+// recycler view with animatio and add delete cardview
+https://www.androidhive.info/2016/01/android-working-with-recycler-view/

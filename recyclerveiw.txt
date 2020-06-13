@@ -6,3 +6,6 @@ https://medium.com/@suragch/updating-data-in-an-android-recyclerview-842e56adbfd
 
 // recycler view with animatio and add delete cardview
 https://www.androidhive.info/2016/01/android-working-with-recycler-view/
+
+// android recyclerview using fragment downloadable
+https://camposha.info/android-navigationview-fragments-with-recyclerview/
